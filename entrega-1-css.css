@@ -1,0 +1,11 @@
+*{
+    font-family: nunito, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.text {
+    padding-top: 10px 10px;
+}
+ p {
+    margin: 0;
+    padding: 0 0 5px 0 ;
+ }
